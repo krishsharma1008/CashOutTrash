@@ -1,2 +1,2 @@
 # CashOutTrash
-CashOutTrash
+We used YOLO v3, which is a type of Convolutional Neural Network (CNN), for real-time object detection. CNNs are systems that can recognize patterns in structured arrays of image data. The main file in Google Colab imports the pre-trained YOLO v3 weights, which are used for image processing in the CashOutTrash project. The YOLO v3 algorithm accurately identifies objects in images and provides information about them, which can be used to convert the objects into points that can be cashed out.
